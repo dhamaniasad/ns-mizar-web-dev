@@ -26,6 +26,7 @@ Example: site:stackoverflow.com how to change background color using JS ([link](
 * [headings, links, basic tags](https://codesandbox.io/s/stupefied-field-e0fefe)
 * [intro to html](https://codesandbox.io/s/intro-to-html-hklk5m)
 * [CSS basics](https://codesandbox.io/s/css-basics-jtrxml?file=/index.html)
+* [CSS basics 2](https://codesandbox.io/s/css-basics-2-drtnd9)
 
 
 ## HTML Semantic Elements
@@ -44,3 +45,7 @@ Example: site:stackoverflow.com how to change background color using JS ([link](
 * [form attributes](https://www.w3schools.com/html/html_form_attributes.asp)
 * [select tag](https://www.w3schools.com/tags/tag_select.asp)
 
+## CSS
+* [CSS combinators](https://www.w3schools.com/css/css_combinators.asp)
+* [Overview](https://www.w3schools.com/css/default.asp)
+* [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
