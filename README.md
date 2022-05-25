@@ -1,8 +1,15 @@
 # ns-mizar-web-dev
 
-## General Resources (frontend - HTML, CSS, JS)
-* [w3schools HTML tags](https://www.w3schools.com/tags/)
-* [MDN](https://developer.mozilla.org/en-US/)
+## General Resources
+* [CSS Tricks](https://css-tricks.com/) - Tips, tricks and guides on using HTML and CSS
+* [W3schools](https://w3schools.com/) - Beginner friendly guides and references on HTML, CSS, and JavaScript
+* [MDN](https://developer.mozilla.org/en-US/) - Thorough resources, guides and documentation for HTML, CSS, and JavaScript
+* [Stack Overflow](https://stackoverflow.com/) - Question Answer site for all things programming related. 
+> Usage tip: on google, search like this site:stackoverflow.com <query here>
+Example: site:stackoverflow.com how to change background color using JS ([link](https://www.google.com/search?q=how+to+change+background+color+using+JS))
+(Use this for advanced queries, for more basic queries use other resources listed above)
+* [HTML5 doctor](http://html5doctor.com/) - Detailed documentation of different HTML elements (including semantic elements)
+* [w3schools HTML tags](https://www.w3schools.com/tags/) - w3schools documentation for HTML tags
 
 
 ## Code Sandboxes
@@ -34,14 +41,4 @@
 * [button element](https://www.w3schools.com/tags/tag_button.asp)
 * [form attributes](https://www.w3schools.com/html/html_form_attributes.asp)
 * [select tag](https://www.w3schools.com/tags/tag_select.asp)
-
-## General Resources
-* [CSS Tricks](https://css-tricks.com/) - Tips, tricks and guides on using HTML and CSS
-* [W3schools](https://w3schools.com/) - Beginner friendly guides and references on HTML, CSS, and JavaScript
-* [MDN](https://developer.mozilla.org/en-US/) - Thorough resources, guides and documentation for HTML, CSS, and JavaScript
-* [Stack Overflow](https://stackoverflow.com/) - Question Answer site for all things programming related. 
-> Usage tip: on google, search like this site:stackoverflow.com <query here>
-Example: site:stackoverflow.com how to change background color using JS ([link](https://www.google.com/search?q=how+to+change+background+color+using+JS))
-(Use this for advanced queries, for more basic queries use other resources listed above)
-* [HTML5 doctor](http://html5doctor.com/) - Detailed documentation of different HTML elements (including semantic elements)
 
