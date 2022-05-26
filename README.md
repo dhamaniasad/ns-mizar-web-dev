@@ -30,6 +30,7 @@ Example: site:stackoverflow.com how to change background color using JS ([link](
 * [css basics 3](https://codesandbox.io/s/css-basics-3-pokswr)
 * [css basics 4](https://codesandbox.io/s/css-basics-4-se5jx7)
 * [css selectors](https://codesandbox.io/s/css-selectors-umkmn0?file=/index.html)
+* [css pseudo elements](https://codesandbox.io/s/css-pseudo-elements-r56jic?file=/index.html)
 
 
 ## HTML Semantic Elements
@@ -59,4 +60,3 @@ Example: site:stackoverflow.com how to change background color using JS ([link](
 * [attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
 * [flexbox froggy](https://flexboxfroggy.com/)
 * [css diner](https://flukeout.github.io/)
-  
