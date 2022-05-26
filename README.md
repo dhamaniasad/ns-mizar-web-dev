@@ -50,3 +50,6 @@ Example: site:stackoverflow.com how to change background color using JS ([link](
 * [Overview](https://www.w3schools.com/css/default.asp)
 * [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 * [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+* [css combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators)
+* [pseudo classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+* [pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
