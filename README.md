@@ -27,6 +27,8 @@ Example: site:stackoverflow.com how to change background color using JS ([link](
 * [intro to html](https://codesandbox.io/s/intro-to-html-hklk5m)
 * [CSS basics](https://codesandbox.io/s/css-basics-jtrxml?file=/index.html)
 * [CSS basics 2](https://codesandbox.io/s/css-basics-2-drtnd9)
+* [css basics 3](https://codesandbox.io/s/css-basics-3-pokswr)
+* [css basics 4](https://codesandbox.io/s/css-basics-4-se5jx7)
 * [css selectors](https://codesandbox.io/s/css-selectors-umkmn0?file=/index.html)
 
 
