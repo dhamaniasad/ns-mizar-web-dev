@@ -55,3 +55,6 @@ Example: site:stackoverflow.com how to change background color using JS ([link](
 * [pseudo classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 * [pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 * [attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+* [flexbox froggy](https://flexboxfroggy.com/)
+* [css diner](https://flukeout.github.io/)
+  
