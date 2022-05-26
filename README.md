@@ -53,3 +53,4 @@ Example: site:stackoverflow.com how to change background color using JS ([link](
 * [css combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators)
 * [pseudo classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 * [pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+* [attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
